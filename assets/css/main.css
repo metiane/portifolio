@@ -94,7 +94,7 @@ body {
 
 /* Type */
 body, input, select, textarea {
-  color: #ffffff;
+  color: #ffffffee;
   font-family: "Open Sans", sans-serif;
   font-size: 20pt;
   font-weight: 400;
@@ -124,7 +124,7 @@ a {
       color: inherit; }
 
 strong, b {
-  color: #3d4449;
+  color: #ffffff;
   font-weight: 600; }
 
 em, i {
@@ -134,7 +134,7 @@ p {
   margin: 0 0 2em 0; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #3d4449;
+  color: #eaeff2;
   font-family: "Roboto Slab", serif;
   font-weight: 700;
   line-height: 1.5;
