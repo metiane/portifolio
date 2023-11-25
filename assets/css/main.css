@@ -28,9 +28,7 @@ footer, header, hgroup, menu, nav, section {
   display: block; }
 
 body {
-  line-height: 1; 
-  color: #ffffff;
-  background-color: black;}
+  line-height: 1; }
 
 ol, ul {
   list-style: none; }
@@ -46,7 +44,9 @@ table {
   border-spacing: 0; }
 
 body {
-  -webkit-text-size-adjust: none; }
+  -webkit-text-size-adjust: none; 
+  color: #ffffff;
+  background-color: black;}
 
 mark {
   background-color: transparent;
@@ -80,7 +80,8 @@ html {
   box-sizing: inherit; }
 
 body {
-  background: #ffffff; }
+  color: #ffffff;
+  background-color: black;}
   body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
